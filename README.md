@@ -140,7 +140,7 @@ The committed `.env.example` contains placeholders and non-secret local defaults
 ```dotenv
 PORT=8000
 FRONTEND_ORIGIN=http://localhost:5500,http://127.0.0.1:5500
-MONGODB_URI=mongodb://127.0.0.1:27017/findit
+MONGODB_URI=--------------------------------
 JWT_SECRET=replace_with_a_long_random_secret
 ```
 
